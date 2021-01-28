@@ -1,6 +1,6 @@
 # Prototype-FPS
 
-!
+![img](https://raw.githubusercontent.com/Aleksios22/Prototype-FPS/main/img.jpg)
 
 Description : Prototype de jeu FPS en arène avec des armes changeant aléatoirement, de la lave montante et un environnement partiellement dynamique.
 
